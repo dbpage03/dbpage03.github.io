@@ -1,0 +1,14 @@
+
+
+body {
+    background-color: rgb(255, 255, 177);
+    text-align: center;    
+}
+#main {
+    background-color: darkgreen;
+    width: 67%;
+    height: 67%;
+    margin-left: 16%;
+    margin-right: 16%;
+    margin-top: 30px;
+}
